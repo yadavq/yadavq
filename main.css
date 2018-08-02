@@ -1,0 +1,71 @@
+#head{
+	font-family: 'Amita', cursive;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#color{
+	color: #dd5018;
+	font-size: 150px;
+}
+
+#cards1{
+	padding:20px;
+	float:right;
+}
+#cards2{
+	padding: 20px;
+	float:right;
+}
+#p{
+	width: 220px;
+	float: left;
+	padding:10px;
+	color: #dd5018;
+	font-size: 18px;
+}
+#latest_updates{
+	height: 450px;
+	width: 1000px;
+}
+#about_baba{
+	background-image: url("about.png");
+	background-size: cover;
+	text-align: center;
+}
+#about_mandal{
+	background-image: url("mandal.png");
+	background-size: cover;
+	text-align: center;
+	padding: 0px;
+}
+#gallery{
+	background-image: url("gallery.png");
+	background-size: cover;
+	text-align: center;
+	padding: 0px;
+}
+#events{
+	background-image: url("events.png");
+	background-size: cover;
+	text-align: center;
+	padding: 0px;
+	margin-bottom: 50px;
+}
+.heading{
+	font-size: 60px;
+	font-family: 'Merriweather', serif;
+}
+.cont{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+#end{
+	padding-top: 10px;
+	font-family: 'Amita', cursive;
+	text-align: center;
+	font-size: 30px;
+	color: #dd5018;
+}
